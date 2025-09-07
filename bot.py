@@ -10,7 +10,7 @@ AudioSegment.ffmpeg = "C:\\Users\\agata\\OneDrive\\Рабочий стол\\Skil
 #C:\Users\agata\OneDrive\Рабочий стол\Skillbox\ffmpeg-master-latest-win64-gpl\bin
 # Ниже нужно вставить токен, который дал BotFather при регистрации
 # Пример: token = '2007628239:AAEF4ZVqLiRKG7j49EC4vaRwXjJ6DN6xng8'
-token = '7757757516:AAEbT8E7wppCUf9dBtNdj2-YtEskQ9G1iUE'  # <<< Ваш токен
+token = "Your Token"  # <<< Ваш токен
 
 bot = telebot.TeleBot(token)
 
